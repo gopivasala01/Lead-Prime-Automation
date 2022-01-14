@@ -20,3 +20,4 @@ public class AppConfig
     public static String LeadPrimeStatus = "Yes";// No denotes that Both IndiaMart and LeadPrime applications run
 
 }
+this is a new change
